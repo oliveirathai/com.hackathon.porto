@@ -2,7 +2,7 @@
 
 Desafio do hackathon dos portos de 2022.
 
-## PARTICIPANTES
+## PARTICIPANTES GRUPO RESSIGNIFICANDO DO PORTO À PORTA
 
 Alyne Bucker
 
