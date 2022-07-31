@@ -13,3 +13,8 @@ Camila Musa
 Gabriela Marani
 
 Thaiane Oliveira
+
+A API não tem comunicação com frontend apresentado que será um prototipo, mas pode ser acessada nessa url:
+
+http://localhost:8080?id=2
+
